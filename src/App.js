@@ -12,17 +12,17 @@ function App() {
     <div className="App">
       <Card movie="Jurassic world" yearAndAuthor="2000,Author" images={Img1} />
       <Card
-        movie="Retaliation"
+        movie="Avatar"
         yearAndAuthor="2002,Author"
         images={Img3}
       />
           <Card
-        movie="Dreacula Untold : Animation"
+        movie="Retaliation : Animation"
         yearAndAuthor="2004,Author"
         images={Img2}
       />
           <Card
-        movie="Iron Man : Age of Ultron"
+        movie="Dracula Untold"
         yearAndAuthor="2018,Author"
         images={Img4}
       />
