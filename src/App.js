@@ -10,14 +10,14 @@ import Img4 from './Images/img2.jpg';
 function App() {
   return (
     <div className="App">
-      <Card movie="Ironman" yearAndAuthor="2000,Author" images={Img1} />
+      <Card movie="Jurassic world" yearAndAuthor="2000,Author" images={Img1} />
       <Card
-        movie="Harry Porter"
+        movie="Retaliation"
         yearAndAuthor="2002,Author"
         images={Img3}
       />
           <Card
-        movie="Harry Porter : Animation"
+        movie="Dreacula Untold : Animation"
         yearAndAuthor="2004,Author"
         images={Img2}
       />
